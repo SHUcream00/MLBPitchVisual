@@ -5,6 +5,12 @@ Visualizes pitches from Statcast pitch raw data
 
 Raw data by [Baseballsavant](https://baseballsavant.mlb.com/)
 
+# Dependencies
+
+[Matplotlib](https://github.com/matplotlib/matplotlib)
+[Pandas](https://github.com/pandas-dev/pandas)
+[Numpy](https://github.com/numpy/numpy)
+
 # Installation
 
 
