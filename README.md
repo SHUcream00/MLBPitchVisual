@@ -7,9 +7,9 @@ Raw data by [Baseballsavant](https://baseballsavant.mlb.com/)
 
 # Dependencies
 
-[Matplotlib](https://github.com/matplotlib/matplotlib)
-[Pandas](https://github.com/pandas-dev/pandas)
-[Numpy](https://github.com/numpy/numpy)
+1. [Matplotlib](https://github.com/matplotlib/matplotlib)
+1. [Pandas](https://github.com/pandas-dev/pandas)
+1. [Numpy](https://github.com/numpy/numpy)
 
 # Installation
 
