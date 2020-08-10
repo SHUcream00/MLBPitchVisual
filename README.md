@@ -3,6 +3,7 @@ Visualizes pitches from Statcast pitch raw data
 
 [![Build Status](https://travis-ci.org/SHUcream00/MLBPitchVisual.svg?branch=master)](https://travis-ci.org/SHUcream00/MLBPitchVisual)
 
+This script visualizes swing outcomes on a pitcher's pitch, along with strike zone and separated by pitch types.
 Raw data by [Baseballsavant](https://baseballsavant.mlb.com/)
 
 # Dependencies
